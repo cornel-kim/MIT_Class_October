@@ -21,3 +21,4 @@ dictionary = {
 
 }
 print(type(dictionary), dictionary, "-it is a dictionary")
+#create 4 variables of different types while showing the result and data type
