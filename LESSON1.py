@@ -4,3 +4,4 @@
 #The advantages of using python includes security, ease of use, dynamic abilities.
 #Python as a programming language comprises of variables and datatypes. The variables
 # act as information store while the datatypes defines the type of data stored.
+#data types in python include: - string, integers, floats, lists, tuples, dictionaries
