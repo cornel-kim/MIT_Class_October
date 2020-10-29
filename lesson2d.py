@@ -11,3 +11,6 @@ time = float(input("Please input the period/time:"))
 rate = int(input("Please input the rate:"))/100
 simpleInterest = (Amount * rate * time)/100
 print("Simple interest is",simpleInterest)
+#calculate sum of three numbers
+#calculate BMI, where BMI is weight/ height
+#compare two numbers stored if it is greater or less than or equal to each other
