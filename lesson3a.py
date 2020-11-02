@@ -11,9 +11,16 @@
 # else:
 #     print("wrong pin, try again")
 
-number = 5#check a number if it is positive or negative
+number = -3#check a number if it is positive or negative
 if number < 0:
     print("negative number")
 else:
     print("positive number")
+
+
+student_marks = 250
+if student_marks < 250:
+    print("repeat the unit")
+else:
+    print("You passed")
 
