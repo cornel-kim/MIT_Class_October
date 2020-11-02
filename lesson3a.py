@@ -23,4 +23,6 @@ if student_marks < 250:
     print("repeat the unit")
 else:
     print("You passed")
+#check student performance for pass and fail, i.e over 50 is
+# pass and less than 50 is fail
 
