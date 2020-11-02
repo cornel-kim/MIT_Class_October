@@ -10,3 +10,5 @@ if Amount > 0:
 
 else:
     print("input valid amount")
+
+#create a program, i. e an ATM machhine thats checks user pin and card number
