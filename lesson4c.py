@@ -12,3 +12,5 @@ for student in students:
         print("No value found")
         continue
 #print all items in a list of
+#print the first 10 natural numbers using the for or while loop
+#using for loop print all the first six months of a year
