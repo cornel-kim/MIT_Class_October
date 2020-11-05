@@ -11,5 +11,5 @@ name = "jane"
 for letter in name:
     print(letter)
 
-
-    
+# student = "john"
+# while

@@ -5,4 +5,10 @@
 
 students = ["Mary", "Paul", "John", "Mercy", "Susan", "Paul"]
 for student in students:
-    print(student)
+    if student == 'John':
+        print(student)
+        break
+    else:
+        print("No value found")
+        continue
+#print all items in a list of
