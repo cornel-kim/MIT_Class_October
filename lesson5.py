@@ -10,3 +10,6 @@ def my_function():#function definition
 
 #invoke/call/trigger/use
 my_function()
+
+from lesson5b import sum
+sum()
