@@ -17,4 +17,8 @@ def myList():
     for town in towns:
         print(town)
 
+
 myList()
+
+#create a python function to calculate simple interest
+#create a python function to calculate BMI
