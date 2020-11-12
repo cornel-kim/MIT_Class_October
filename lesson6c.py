@@ -22,3 +22,7 @@ def ATM(bank_balance, deposit_amount, withdrawal):
 ATM(deposit_amount=3000, withdrawal=1000, bank_balance=4000)
 ATM(deposit_amount=500, withdrawal=5000, bank_balance=4500)
 ATM(deposit_amount=0, withdrawal=5000, bank_balance=0)
+
+#BMI is calculated using this formula BMI = weight/height.Using python function create
+#a python function with parameters and arguments to calculate BMI. Give recomendations
+#for each index i.e obesse, underweight and healthy
