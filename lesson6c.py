@@ -14,10 +14,11 @@ def ATM(bank_balance, deposit_amount, withdrawal):
         if withdrawal < Total_balance_deposit:
             print("withdrawal is successful")
         else:
-            print("The balance is X not enough")
+            print("The balance is not enough")
     else:
         print("error please try again")
 
 
 ATM(deposit_amount=3000, withdrawal=1000, bank_balance=4000)
 ATM(deposit_amount=500, withdrawal=5000, bank_balance=4500)
+ATM(deposit_amount=0, withdrawal=5000, bank_balance=0)
