@@ -21,4 +21,4 @@ def myList():
 myList()
 
 #create a python function to calculate simple interest
-#create a python function to calculate BMI
+#create a python function to calculate BMI. Give recomendations using if else and elif.
