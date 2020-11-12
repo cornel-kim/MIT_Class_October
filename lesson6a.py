@@ -6,4 +6,5 @@ def simpleInterest(base_value, rate, time):#parameters-base_value, rate and time
     print("Simple interest is ksh", simple_interets)
 
 
-simpleInterest(base_value=3000, rate=8, time=2)#base_value=3000, rate=8, time=2 are all arguments
+simpleInterest(base_value=3000, rate=8, time=2)#base_value=3000, rate=8,
+# time=2 are all arguments
